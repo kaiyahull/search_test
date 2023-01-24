@@ -9,3 +9,4 @@ file = os.path.join(
 data = pd.read_excel(file)
 
 
+debug_distro = 'test_email@email'
